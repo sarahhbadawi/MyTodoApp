@@ -55,6 +55,6 @@ public class TodoList {
         // Display all items
         myTodoList.displayTodoItems();
 
-        System.out.println("Helloooo!");
+        System.out.println("Hello!");
     }
 }
